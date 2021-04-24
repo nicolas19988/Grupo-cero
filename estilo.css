@@ -1,0 +1,38 @@
+.sidebar{
+    position:sticky;
+    background-color: lightblue;
+    width: 10%;
+    height: 100%;
+}
+
+.center{
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin: auto;
+
+}
+.art{
+    text-align: center;
+}
+
+.pro{
+    text-align: center;
+}
+
+.nos{
+    text-align: center;
+}
+
+.artu{
+    text-align: center;
+}
+
+.isi{
+    text-align: center;
+}
+.yeni{
+    text-align: center;
+}
